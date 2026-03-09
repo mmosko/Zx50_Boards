@@ -1,0 +1,5 @@
+Zx50_MemoryCard_RevA-backups/
+~*.lck
+fp-info-cache
+*.csv
+.DS_Store
