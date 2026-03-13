@@ -4631,6 +4631,55 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "zx50_symbols:DIP-32_Socket"
+			(exclude_from_sim no)
+			(in_bom no)
+			(on_board no)
+			(property "Reference" "MISC"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "zx50_symbols:IS61C256AL-12JLI"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -15154,7 +15203,7 @@
 		(at 105.41 165.1 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "057122a6-6c1b-41eb-afb4-d326603cb004")
@@ -15204,6 +15253,24 @@
 			)
 		)
 		(property "LCSC" "C31179"
+			(at 105.41 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_PN" ""
+			(at 105.41 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SKU" ""
 			(at 105.41 165.1 0)
 			(effects
 				(font
@@ -15659,7 +15726,7 @@
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "0e935f56-a228-4326-b497-4c4a89d9e28e")
@@ -15724,6 +15791,24 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_PN" ""
+			(at 292.1 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SKU" ""
+			(at 292.1 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f1b0f58e-aaa0-42d5-8d98-c5efa47c4e76")
 		)
@@ -15744,7 +15829,7 @@
 		(at 293.37 128.27 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -15810,6 +15895,24 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_PN" ""
+			(at 293.37 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SKU" ""
+			(at 293.37 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d48d77e7-9677-4f54-9781-7f32b26d7e40")
 		)
@@ -15831,7 +15934,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "2147b3db-fd8a-4645-84bd-ca2f0d7646c6")
@@ -15889,6 +15992,24 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_PN" ""
+			(at 93.98 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SKU" ""
+			(at 93.98 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "01a1918f-d367-49a8-a746-2472e66f808f")
 		)
@@ -15910,7 +16031,7 @@
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "260bfaef-b7c7-41d7-9117-9d4755d204cd")
@@ -15966,6 +16087,24 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_PN" ""
+			(at 297.18 63.5 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SKU" ""
+			(at 297.18 63.5 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5cae95a4-ae6e-486f-a529-78ef2fc01def")
 		)
@@ -15986,7 +16125,7 @@
 		(at 298.45 76.2 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -16043,6 +16182,24 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_PN" ""
+			(at 298.45 76.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SKU" ""
+			(at 298.45 76.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "55f32040-b8af-4b74-a06e-08001190b10f")
 		)
@@ -16063,7 +16220,7 @@
 		(at 215.9 153.67 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "2ac17c3f-9bf1-4d69-ae91-467f04e44090")
@@ -16113,6 +16270,24 @@
 			)
 		)
 		(property "LCSC" "C14663"
+			(at 215.9 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_PN" ""
+			(at 215.9 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SKU" ""
 			(at 215.9 153.67 0)
 			(effects
 				(font
@@ -16471,7 +16646,7 @@
 		(at 68.58 76.2 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -16531,6 +16706,24 @@
 			)
 		)
 		(property "LCSC" ""
+			(at 68.58 76.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_PN" ""
+			(at 68.58 76.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SKU" ""
 			(at 68.58 76.2 90)
 			(effects
 				(font
@@ -16626,7 +16819,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "3c92a8a9-6a43-4400-b3b4-4279fe2027c0")
@@ -16684,6 +16877,24 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_PN" ""
+			(at 40.64 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SKU" ""
+			(at 40.64 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ea11d746-0798-4669-8be7-9d5e5f63b82c")
 		)
@@ -16705,7 +16916,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "3d124bc0-792c-409c-9f67-f1047176d2c8")
@@ -16763,6 +16974,24 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_PN" ""
+			(at 101.6 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SKU" ""
+			(at 101.6 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3697c0c3-a61e-43a6-bf81-f18744b21b39")
 		)
@@ -16784,7 +17013,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "3d965dfa-096f-4443-a72f-d2902116ddaf")
@@ -16842,6 +17071,24 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_PN" ""
+			(at 119.38 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SKU" ""
+			(at 119.38 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "14866a3f-bf1f-48fa-a163-a43b67338609")
 		)
@@ -16863,7 +17110,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "41de70c2-d955-4edd-8240-0d686bef876e")
@@ -16921,6 +17168,24 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_PN" ""
+			(at 213.36 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SKU" ""
+			(at 213.36 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ad96810c-1c90-45eb-9d2c-a3334e288a37")
 		)
@@ -16941,7 +17206,7 @@
 		(at 246.38 196.85 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "42178a4c-41bb-480c-9345-d033157f7874")
@@ -16989,6 +17254,24 @@
 			)
 		)
 		(property "LCSC" "C2062861"
+			(at 246.38 196.85 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_PN" ""
+			(at 246.38 196.85 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SKU" ""
 			(at 246.38 196.85 90)
 			(effects
 				(font
@@ -17095,7 +17378,7 @@
 		(at 293.37 76.2 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -17161,6 +17444,24 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_PN" ""
+			(at 293.37 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SKU" ""
+			(at 293.37 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "72190ec6-e7a7-43ca-a28d-a5ca42aee176")
 		)
@@ -17181,7 +17482,7 @@
 		(at 168.91 158.75 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "54314b0d-7af7-43b8-a2a5-a88e73a721f9")
@@ -17231,6 +17532,24 @@
 			)
 		)
 		(property "LCSC" "C14663"
+			(at 168.91 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_PN" ""
+			(at 168.91 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SKU" ""
 			(at 168.91 158.75 0)
 			(effects
 				(font
@@ -17457,7 +17776,7 @@
 		(at 215.9 102.87 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "5d8adde3-240f-4479-b141-474a6eda07e5")
@@ -17515,6 +17834,24 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_PN" ""
+			(at 215.9 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SKU" ""
+			(at 215.9 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4bd7873e-072f-4ac9-8868-7c81c4a7a8d5")
 		)
@@ -17535,7 +17872,7 @@
 		(at 106.68 238.76 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "5eae52b2-f34a-4036-8169-30b806c229a1")
@@ -17585,6 +17922,24 @@
 			)
 		)
 		(property "LCSC" "C14663"
+			(at 106.68 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_PN" ""
+			(at 106.68 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SKU" ""
 			(at 106.68 238.76 0)
 			(effects
 				(font
@@ -17662,6 +18017,24 @@
 			)
 		)
 		(property "LCSC" ""
+			(at 257.81 43.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_PN" "SST39SF040-70-4C-PHE-ND"
+			(at 257.81 43.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SKU" "SST39SF040-70-4C-PHE"
 			(at 257.81 43.18 90)
 			(effects
 				(font
@@ -17776,12 +18149,94 @@
 		)
 	)
 	(symbol
+		(lib_id "zx50_symbols:DIP-32_Socket")
+		(at 25.4 59.69 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board no)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6b497086-23ab-48e2-bc16-1aa601593bd6")
+		(property "Reference" "MISC1"
+			(at 26.67 58.4199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 26.67 60.9599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "DIP-32 socket"
+			(at 25.4 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 25.4 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 25.4 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_PN" "123-AR32-HZL/01-TT-ND"
+			(at 25.4 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SKU" ""
+			(at 25.4 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project ""
+				(path "/024a2433-248f-41c0-8a0c-ac9ea528ccd5/77747e00-68ea-483a-b865-379235adbc78"
+					(reference "MISC1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 215.9 203.2 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "756cde28-dc8d-4c0b-956c-2bf58fd146d1")
@@ -17839,6 +18294,24 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_PN" ""
+			(at 215.9 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SKU" ""
+			(at 215.9 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "7677fa7c-efe2-4817-81c6-c718e9ba0f00")
 		)
@@ -17859,7 +18332,7 @@
 		(at 49.53 74.93 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "76e71fe9-ed56-4269-8064-95534d6b31ff")
@@ -17909,6 +18382,24 @@
 			)
 		)
 		(property "LCSC" ""
+			(at 49.53 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_PN" ""
+			(at 49.53 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SKU" ""
 			(at 49.53 74.93 0)
 			(effects
 				(font
@@ -18003,7 +18494,7 @@
 		(at 54.61 76.2 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -18071,6 +18562,24 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_PN" ""
+			(at 54.61 76.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SKU" ""
+			(at 54.61 76.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "41e1c0e6-dea5-4b1c-b126-c65edb498871")
 		)
@@ -18091,7 +18600,7 @@
 		(at 148.59 201.93 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "853f31fc-479c-4178-83a2-b02863f925d9")
@@ -18149,6 +18658,24 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_PN" ""
+			(at 148.59 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SKU" ""
+			(at 148.59 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "bffe716f-4e63-42d1-85c9-0fb6b02f0391")
 		)
@@ -18169,7 +18696,7 @@
 		(at 102.87 100.33 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "8745352b-bfd7-432e-8b8d-01a2165214c0")
@@ -18219,6 +18746,24 @@
 			)
 		)
 		(property "LCSC" "C14663"
+			(at 102.87 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_PN" ""
+			(at 102.87 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SKU" ""
 			(at 102.87 100.33 0)
 			(effects
 				(font
@@ -18314,7 +18859,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "8c4f3a41-27a0-4412-8017-d8681d5f1172")
@@ -18364,6 +18909,24 @@
 			)
 		)
 		(property "LCSC" "C14663"
+			(at 212.09 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_PN" ""
+			(at 212.09 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SKU" ""
 			(at 212.09 102.87 0)
 			(effects
 				(font
@@ -18591,7 +19154,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "a87aab9b-50ef-44b4-9352-8386b8e03fb8")
@@ -18641,6 +19204,24 @@
 			)
 		)
 		(property "LCSC" "C14663"
+			(at 212.09 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_PN" ""
+			(at 212.09 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SKU" ""
 			(at 212.09 153.67 0)
 			(effects
 				(font
@@ -18736,7 +19317,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "ac9a8f21-162b-4cca-a5fc-74bc36bba4ad")
@@ -18786,6 +19367,24 @@
 			)
 		)
 		(property "LCSC" "C14663"
+			(at 40.64 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_PN" ""
+			(at 40.64 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SKU" ""
 			(at 40.64 140.97 0)
 			(effects
 				(font
@@ -19012,7 +19611,7 @@
 		(at 184.15 92.71 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "c23fbddc-48d1-4623-9db4-c78c35b12672")
@@ -19070,6 +19669,24 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_PN" ""
+			(at 184.15 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SKU" ""
+			(at 184.15 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "50c236a0-d1c2-4603-8822-e7a3b7adc28c")
 		)
@@ -19090,7 +19707,7 @@
 		(at 252.73 96.52 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "c3257bd2-eea7-4be1-906d-4a6bd41d801c")
@@ -19138,6 +19755,24 @@
 			)
 		)
 		(property "LCSC" "C2955765"
+			(at 252.73 96.52 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_PN" ""
+			(at 252.73 96.52 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SKU" ""
 			(at 252.73 96.52 90)
 			(effects
 				(font
@@ -19325,6 +19960,24 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_PN" "732-2094-ND"
+			(at 171.45 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SKU" "61201021621"
+			(at 171.45 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "00ba7b30-50a4-482b-b278-212d66143478")
 		)
@@ -19435,7 +20088,7 @@
 		(at 63.5 74.93 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "dc4d50e1-0c0a-4445-8099-71f1c978a744")
@@ -19493,6 +20146,24 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_PN" ""
+			(at 63.5 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SKU" ""
+			(at 63.5 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a91ae90f-f40b-41f9-8d35-6c76dce95bab")
 		)
@@ -19513,7 +20184,7 @@
 		(at 252.73 147.32 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "dda5ed8a-1424-4d34-b7e0-22654bbe5921")
@@ -19561,6 +20232,24 @@
 			)
 		)
 		(property "LCSC" "C2955765"
+			(at 252.73 147.32 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_PN" ""
+			(at 252.73 147.32 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SKU" ""
 			(at 252.73 147.32 90)
 			(effects
 				(font
@@ -19889,7 +20578,7 @@
 		(at 298.45 128.27 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -19938,6 +20627,24 @@
 			)
 		)
 		(property "LCSC" "C17710"
+			(at 298.45 128.27 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_PN" ""
+			(at 298.45 128.27 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SKU" ""
 			(at 298.45 128.27 90)
 			(effects
 				(font

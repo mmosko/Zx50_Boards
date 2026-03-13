@@ -14946,7 +14946,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "021b5004-57da-4f51-9c66-2eec52ac0d8a")
@@ -14996,6 +14996,24 @@
 			)
 		)
 		(property "LCSC" "C14663"
+			(at 91.44 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_PN" ""
+			(at 91.44 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SKU" ""
 			(at 91.44 96.52 0)
 			(effects
 				(font
@@ -15157,7 +15175,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "07b9c1b8-4b85-4002-8250-5eab76fd8759")
@@ -15215,6 +15233,24 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_PN" ""
+			(at 15.24 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SKU" ""
+			(at 15.24 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "7717a991-2510-493f-9989-ceb915873030")
 		)
@@ -15235,7 +15271,7 @@
 		(at 146.05 120.65 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "0aaf93f1-c486-484c-9101-2bce73a681d2")
@@ -15287,6 +15323,24 @@
 			)
 		)
 		(property "LCSC" "C131956"
+			(at 146.05 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_PN" ""
+			(at 146.05 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SKU" ""
 			(at 146.05 120.65 90)
 			(effects
 				(font
@@ -15502,7 +15556,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "1efb65d9-7de0-479c-9c5b-4218cda1c51d")
@@ -15560,6 +15614,24 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_PN" ""
+			(at 68.58 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SKU" ""
+			(at 68.58 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a457a3c4-3db5-41f8-a3a6-b2eda8abf3e5")
 		)
@@ -15581,7 +15653,7 @@
 		(at 44.45 58.42 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "2084ce95-cc7e-49d7-a757-d12918debfec")
@@ -15631,6 +15703,24 @@
 			)
 		)
 		(property "LCSC" "C131956"
+			(at 44.45 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_PN" ""
+			(at 44.45 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SKU" ""
 			(at 44.45 58.42 0)
 			(effects
 				(font
@@ -15714,7 +15804,7 @@
 		(at 203.2 121.92 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "20afc9f3-bdb1-47b3-b863-4a76d9728ddc")
@@ -15766,6 +15856,24 @@
 			)
 		)
 		(property "LCSC" "C1548132"
+			(at 203.2 121.92 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_PN" ""
+			(at 203.2 121.92 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SKU" ""
 			(at 203.2 121.92 90)
 			(effects
 				(font
@@ -15848,7 +15956,7 @@
 		(at 49.53 22.86 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "2117a574-44ec-40de-83b1-ebd7a2b0cc36")
@@ -15898,6 +16006,24 @@
 			)
 		)
 		(property "LCSC" "C14663"
+			(at 49.53 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_PN" ""
+			(at 49.53 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SKU" ""
 			(at 49.53 22.86 0)
 			(effects
 				(font
@@ -16249,6 +16375,24 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_PN" "2057-PH2RA-80-UA-ND"
+			(at 144.78 157.48 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SKU" "	 PH2RA-80-UA"
+			(at 144.78 157.48 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "78"
 			(uuid "e73fb235-e636-4096-872b-5117d8624350")
 		)
@@ -16504,7 +16648,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "45a91ab0-561b-4cc5-a2a1-751b9695a991")
@@ -16562,6 +16706,24 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_PN" ""
+			(at 43.18 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SKU" ""
+			(at 43.18 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "6ba20a1c-a849-4cba-aec0-78f2495f2126")
 		)
@@ -16582,7 +16744,7 @@
 		(at 85.09 111.76 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "4a0e0f61-813f-4fa1-9edf-2ff033daa1c9")
@@ -16634,6 +16796,24 @@
 			)
 		)
 		(property "LCSC" "C2869608"
+			(at 85.09 111.76 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_PN" ""
+			(at 85.09 111.76 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SKU" ""
 			(at 85.09 111.76 90)
 			(effects
 				(font
@@ -16866,7 +17046,7 @@
 		(at 85.09 60.96 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "57f0547a-d581-4d39-9e8c-d7239ec74bf5")
@@ -16916,6 +17096,24 @@
 			)
 		)
 		(property "LCSC" "C14663"
+			(at 85.09 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_PN" ""
+			(at 85.09 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SKU" ""
 			(at 85.09 60.96 0)
 			(effects
 				(font
@@ -17077,7 +17275,7 @@
 		(at 99.06 120.65 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "67abd647-4aa3-44bc-997e-64dfd6b6b9e8")
@@ -17129,6 +17327,24 @@
 			)
 		)
 		(property "LCSC" "C1548132"
+			(at 99.06 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_PN" ""
+			(at 99.06 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SKU" ""
 			(at 99.06 120.65 90)
 			(effects
 				(font
@@ -17212,7 +17428,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "6e3a1f97-10a9-43a3-be8e-3c6ede12f38c")
@@ -17270,6 +17486,24 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_PN" ""
+			(at 238.76 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SKU" ""
+			(at 238.76 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e5881556-6c7a-42d6-a0b8-681cff287025")
 		)
@@ -17291,7 +17525,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "73d35aab-f141-4cf9-a699-d6ab4acf53f1")
@@ -17341,6 +17575,24 @@
 			)
 		)
 		(property "LCSC" "C14663"
+			(at 15.24 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_PN" ""
+			(at 15.24 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SKU" ""
 			(at 15.24 118.11 0)
 			(effects
 				(font
@@ -17568,7 +17820,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "85b82682-921f-492f-8f85-34ea1d410bd6")
@@ -17618,6 +17870,24 @@
 			)
 		)
 		(property "LCSC" "C14663"
+			(at 193.04 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_PN" ""
+			(at 193.04 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SKU" ""
 			(at 193.04 95.25 0)
 			(effects
 				(font
@@ -17845,7 +18115,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "9b223fc8-1a45-4e06-a989-e8ba2cc537ce")
@@ -17903,6 +18173,24 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_PN" ""
+			(at 138.43 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SKU" ""
+			(at 138.43 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "21c80c6f-7e63-4e2d-bad1-287d5c90eaa9")
 		)
@@ -17923,7 +18211,7 @@
 		(at 60.96 31.75 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "b0e27884-481a-4aa3-aa51-6383a5f08c3f")
@@ -17971,6 +18259,24 @@
 			)
 		)
 		(property "LCSC" "C52140419"
+			(at 60.96 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_PN" ""
+			(at 60.96 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SKU" ""
 			(at 60.96 31.75 0)
 			(effects
 				(font
@@ -18207,7 +18513,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "ca7e30d3-1459-49ec-a0ec-0aa72e7d0fa2")
@@ -18257,6 +18563,24 @@
 			)
 		)
 		(property "LCSC" "C14663"
+			(at 91.44 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_PN" ""
+			(at 91.44 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SKU" ""
 			(at 91.44 148.59 0)
 			(effects
 				(font
@@ -18332,7 +18656,25 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "208-5"
+			(at 22.86 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_PN" "CT2085-ND"
+			(at 22.86 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SKU" ""
 			(at 22.86 66.04 0)
 			(effects
 				(font
@@ -18451,7 +18793,7 @@
 		(at 248.92 121.92 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "d86a9786-c9aa-4602-9222-b1a2bd6d3e9d")
@@ -18503,6 +18845,24 @@
 			)
 		)
 		(property "LCSC" "C1548132"
+			(at 248.92 121.92 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_PN" ""
+			(at 248.92 121.92 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SKU" ""
 			(at 248.92 121.92 90)
 			(effects
 				(font
@@ -18833,7 +19193,25 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "	 4606X-AP1-103LF"
+			(at 38.1 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_PN" "4606X-AP1-103LFCT-ND"
+			(at 38.1 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SKU" ""
 			(at 38.1 46.99 0)
 			(effects
 				(font
