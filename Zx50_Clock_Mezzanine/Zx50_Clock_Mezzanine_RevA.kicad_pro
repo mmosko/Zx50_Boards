@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 3.2,
-          "height": 6.4,
-          "width": 6.4
+          "drill": 0.8,
+          "height": 1.27,
+          "width": 2.54
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -467,7 +467,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Zx50_Cpu.kicad_pro",
+    "filename": "Zx50_Clock_Mezzanine_RevA.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -569,7 +569,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "",
+      "netlist": "gemini.net",
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
@@ -658,8 +658,32 @@
         },
         {
           "group_by": false,
-          "label": "Digikey_PN",
-          "name": "Digikey_PN",
+          "label": "DK_Datasheet_Link",
+          "name": "DK_Datasheet_Link",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "DK_Detail_Page",
+          "name": "DK_Detail_Page",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Description_1",
+          "name": "Description_1",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Digi-Key_PN",
+          "name": "Digi-Key_PN",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Family",
+          "name": "Family",
           "show": false
         },
         {
@@ -670,32 +694,20 @@
         },
         {
           "group_by": false,
-          "label": "OC_FARNELL",
-          "name": "OC_FARNELL",
+          "label": "Manufacturer",
+          "name": "Manufacturer",
           "show": false
         },
         {
           "group_by": false,
-          "label": "OC_NEWARK",
-          "name": "OC_NEWARK",
+          "label": "Status",
+          "name": "Status",
           "show": false
         },
         {
           "group_by": false,
-          "label": "PACKAGE",
-          "name": "PACKAGE",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "SUPPLIER",
-          "name": "SUPPLIER",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Sim.Pins",
-          "name": "Sim.Pins",
+          "label": "Category",
+          "name": "Category",
           "show": false
         },
         {
@@ -716,7 +728,7 @@
       "include_excluded_from_bom": true,
       "name": "",
       "sort_asc": true,
-      "sort_field": "DigiKey_PN"
+      "sort_field": "Manufacturer"
     },
     "connection_grid_size": 50.0,
     "drawing": {
@@ -760,7 +772,7 @@
   },
   "sheets": [
     [
-      "d27e6793-29e8-4553-aae0-c58a11de5d25",
+      "d7f63067-cdea-4708-9c7c-4420e1b61c54",
       "Root"
     ]
   ],
