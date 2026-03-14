@@ -17,3 +17,6 @@ The Zx50 is a custom 8-slot, passive backplane Z80 computer. It uses a "Shadow B
 * Standard 74HC / 74AHC logic is used for local onboard glue logic.
 
 * System Reset: Handled by an MCP1316M-46LE/OT Open-Drain Supervisor IC on the CPU card. It provides a ~200ms reset timeout to allow the backplane capacitors to charge and the Pi Pico bootloaders to initialize before the Z80 wakes up.
+
+
+
