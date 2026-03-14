@@ -1,9 +1,13 @@
 # Zx50 Bus Probe & Injector Card (Rev A)
 
 ## 1. Overview and Purpose
-The Zx50 Bus Probe is a professional-grade, hybrid diagnostic tool designed specifically for a Z80-based Zx50 backplane architecture. It serves as an active oscilloscope probe, an arbitrary signal injector, and a digital logic analyzer tap. 
+The Zx50 Bus Probe is a hybrid diagnostic tool designed specifically for a Z80-based Zx50 backplane architecture. It serves as an active oscilloscope probe, an arbitrary signal injector, and a digital logic analyzer tap. 
 
 Instead of manually moving oscilloscope probes across an active backplane, the Zx50 Probe allows a user to digitally route any of the 72 backplane signals to a central BNC output, inject external signals via a BNC input, and monitor system health via an onboard UI.
+
+There is a Receiver card that attaches to the Zx50 bus.  It has a Pi PICO as the interface to a host computer.  The Pico orchestrates the backplane signal multiplexing.  It is attached via SPI to an 18F4620 PIC that has two GPIO expanders.  The PIC is the Zx50 bus debugger.  It can read or write to the bus and it can control the clocks.  The 18F4620 uses its onboard SPI to talk to the GPIO expanders and the UART to talk to the Pico.  A to-be-determined serial protocol allows the Pico to send commands or read data from the 4620.  The intent is the 4620 has a simple command monitor and rarely needs flash updates.  The Pico has complex software in Python that is easier to program and update.
+
+There is a Sender card that attaches to the Receiver via 2x5 ribbon cable.  The Sender card attaches to an AFG to put signals on backplane traces.  These can be monitored by the Receiver.  Both sender and receiver have high-speed op amps and BNC connectors to attach to lab equipment.
 
 ## 2. The Universal Board Architecture
 To minimize fabrication costs and guarantee matched signal paths, the system is designed as a **Universal PCB**. A single board design can be populated differently to serve as either the "Receiver" (The Brain) or the "Sender" (The Drone).
