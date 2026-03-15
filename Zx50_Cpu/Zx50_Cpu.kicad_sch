@@ -16319,7 +16319,16 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey_PN" "732-2098-ND"
+		(property "DigiKey_PN" "S5558-ND"
+			(at 256.54 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SKU" "	 PPPC052LJBN-RC"
 			(at 256.54 63.5 0)
 			(effects
 				(font
